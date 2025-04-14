@@ -1,1 +1,8 @@
+function createHelloWorld(...args){
+    function f()
+    {
+        return "Hello World"
+    }
 
+    return f
+} //Lexical Scoping
